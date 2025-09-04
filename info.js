@@ -1,3 +1,4 @@
+alert("Hallo, selamat datang) 
 // alert(`Permainan akan dimulai`)
 // const question = prompt(`Pilih antara batu, gunting, dan kertas`).toLowerCase();
 
@@ -9,4 +10,5 @@
 //     alert(`kamu Benar`)
 // } else {
 //     alert(`kamu salah, jawabannya adalah ${random_lawan}`)
+
 // }
